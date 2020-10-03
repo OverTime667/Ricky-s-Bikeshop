@@ -1,8 +1,5 @@
+.container {
 
-#logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 .nav {
     display: flex;
@@ -12,10 +9,7 @@
     list-style-type:none;
 }
 
-
-a:hover 
-{
-     color:#00A0C6; 
-     text-decoration:none; 
-     cursor:pointer;  
+a {
+    color: #000000;
+    text-decoration: none;
 }
