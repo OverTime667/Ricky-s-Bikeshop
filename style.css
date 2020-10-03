@@ -1,6 +1,11 @@
-.container {
+header {
     background-color: aqua;
 }
+
+body {
+    background: coral;
+}
+
 #logo {
     display: block;
     margin-left: auto;
