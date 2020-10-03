@@ -1,6 +1,11 @@
 .container {
 
 }
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .nav {
     display: flex;
     flex-direction: row;
